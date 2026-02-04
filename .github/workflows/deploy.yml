@@ -1,0 +1,38 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # 或者是你的主分支名稱，如果是 master 請更改
+
+null# 允許 GitHub Actions 寫入內容到 Repo (部署 gh-pages 分支需要)
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          channel: 'stable'
+          flutter-version: '3.27.0' # 這裡建議填入你目前的版本或是 latest
+
+      - name: Install dependencies
+        run: flutter pub get
+
+      - name: Build Web
+        # 注意：如果你的 GitHub Pages 網址不是 root (例如 https://<user>.github.io/<repo-name>/)
+        # 你需要將下列的 --base-href 修改為 "/<repo-name>/"
+        run: flutter build web --release --base-href "/"
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build/web

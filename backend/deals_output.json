@@ -1,0 +1,388 @@
+[
+  {
+    "id": "family_mart_frost_ice_cream_buy2_get2",
+    "title": "霜淇淋買2送2",
+    "description": "全家APP行動隨時取，即起至2月6日前霜淇淋買2送2，每支下殺25元，不限制購買次數，天天可用。",
+    "merchantName": "全家 FamilyMart",
+    "merchantType": "便利商店",
+    "startDate": "2026-02-01T00:00:00+08:00",
+    "endDate": "2026-02-06T23:59:59+08:00",
+    "tags": [
+      "買一送一",
+      "限時特價",
+      "App專屬"
+    ],
+    "sourceUrl": "https://www.nownews.com/news/6782953",
+    "imageUrl": null,
+    "fetchedAt": "2026-02-04T07:14:18.934Z"
+  },
+  {
+    "id": "family_mart_kangkang5_ice_cream",
+    "title": "霜淇淋買一送一及開心果雪糕20元",
+    "description": "2月6日至2月8日門市購買霜淇淋米香脆奶昔買一送一，阿奇儂極濃義式開心果雪糕特價20元。",
+    "merchantName": "全家 FamilyMart",
+    "merchantType": "便利商店",
+    "startDate": "2026-02-06T00:00:00+08:00",
+    "endDate": "2026-02-08T23:59:59+08:00",
+    "tags": [
+      "買一送一",
+      "限時特價",
+      "週末限定"
+    ],
+    "sourceUrl": "https://www.nownews.com/news/6782953",
+    "imageUrl": null,
+    "fetchedAt": "2026-02-04T07:14:18.935Z"
+  },
+  {
+    "id": "seven_eleven_coffee_buy7_get7",
+    "title": "精品咖啡買7送7半價",
+    "description": "7-11精品咖啡買7送7方案，中杯精品冰燕麥拿鐵限量2萬組，實體店內不可思議茶BAR至2月3日第二杯7折。",
+    "merchantName": "7-ELEVEN",
+    "merchantType": "便利商店",
+    "startDate": "2026-02-01T00:00:00+08:00",
+    "endDate": "2026-02-03T23:59:59+08:00",
+    "tags": [
+      "買一送一",
+      "限時特價",
+      "會員專屬"
+    ],
+    "sourceUrl": "https://www.storm.mg/lifestyle/11099421",
+    "imageUrl": null,
+    "fetchedAt": "2026-02-04T07:14:18.935Z"
+  },
+  {
+    "id": "seven_eleven_golden_horse_discount",
+    "title": "金馬開運迎財神滿222折20",
+    "description": "2月11日起至2月16日購買指定類別商品滿222元立折20元，uniopen會員打卡分享送飲品買一送一。",
+    "merchantName": "7-ELEVEN",
+    "merchantType": "便利商店",
+    "startDate": "2026-02-11T00:00:00+08:00",
+    "endDate": "2026-02-16T23:59:59+08:00",
+    "tags": [
+      "滿額折扣",
+      "行動支付優惠",
+      "App專屬"
+    ],
+    "sourceUrl": "https://www.cosmopolitan.com/tw/lifestyle/hot-topics/g70181680/2026-7-eleven-0130/",
+    "imageUrl": null,
+    "fetchedAt": "2026-02-04T07:14:18.935Z"
+  },
+  {
+    "id": "family_mart_coffee_second_cup",
+    "title": "經典大杯咖啡第二杯79折",
+    "description": "經典大杯以上/單品咖啡全品項任選第2杯79折，活動不含小農拿鐵，長期活動至3月底。",
+    "merchantName": "全家 FamilyMart",
+    "merchantType": "便利商店",
+    "startDate": "2026-02-01T00:00:00+08:00",
+    "endDate": "2026-02-28T23:59:59+08:00",
+    "tags": [
+      "第二件半價",
+      "咖啡廳",
+      "長期活動"
+    ],
+    "sourceUrl": "https://www.family.com.tw/Marketing/zh/Event",
+    "imageUrl": null,
+    "fetchedAt": "2026-02-04T07:14:18.935Z"
+  },
+  {
+    "id": "px_mart_golden_goods_day",
+    "title": "黃金年貨日滿1000現折100",
+    "description": "1月10日至2月8日每週六日及2月13-15日，福利卡友滿1000元贈800限時福利點，全店日用品滿1000元現折100元。",
+    "merchantName": "全聯",
+    "merchantType": "超市",
+    "startDate": "2026-02-01T00:00:00+08:00",
+    "endDate": "2026-02-08T23:59:59+08:00",
+    "tags": [
+      "滿額折扣",
+      "會員專屬",
+      "週末限定"
+    ],
+    "sourceUrl": "https://money.udn.com/money/story/124512/9297898",
+    "imageUrl": null,
+    "fetchedAt": "2026-02-04T07:14:18.935Z"
+  },
+  {
+    "id": "carrefour_horse_good_happen",
+    "title": "Horse好事發生新春優惠",
+    "description": "即日起至2月24日推出新春檔期，指定週末假日單筆消費達門檻享9折現金券或線上現折回饋。",
+    "merchantName": "家樂福",
+    "merchantType": "超市",
+    "startDate": "2026-02-01T00:00:00+08:00",
+    "endDate": "2026-02-24T23:59:59+08:00",
+    "tags": [
+      "滿額折扣",
+      "春節優惠",
+      "週末限定"
+    ],
+    "sourceUrl": "https://money.udn.com/money/story/124512/9297898",
+    "imageUrl": null,
+    "fetchedAt": "2026-02-04T07:14:18.935Z"
+  },
+  {
+    "id": "seven_eleven_member_full_discount",
+    "title": "會員滿1111折200",
+    "description": "會員使用指定支付工具購買指定商品滿1111元立折200元，回饋18%，2月4-8日滿222元立折20元。",
+    "merchantName": "7-ELEVEN",
+    "merchantType": "便利商店",
+    "startDate": "2026-02-04T00:00:00+08:00",
+    "endDate": "2026-02-08T23:59:59+08:00",
+    "tags": [
+      "滿額折扣",
+      "會員專屬",
+      "行動支付優惠"
+    ],
+    "sourceUrl": "https://www.7-11.com.tw/special/article_new.aspx?item=Event_E089",
+    "imageUrl": null,
+    "fetchedAt": "2026-02-04T07:14:18.935Z"
+  },
+  {
+    "id": "family_mart_fresh_food_lucky_draw",
+    "title": "購買開運鮮食抽10萬黃金",
+    "description": "1月21日至3月3日購買指定開運鮮食抽10萬元黃金及永豐金證券股票禮品卡。",
+    "merchantName": "全家 FamilyMart",
+    "merchantType": "便利商店",
+    "startDate": "2026-02-01T00:00:00+08:00",
+    "endDate": "2026-02-28T23:59:59+08:00",
+    "tags": [
+      "抽獎活動",
+      "春節優惠",
+      "會員專屬"
+    ],
+    "sourceUrl": "https://www.family.com.tw/Marketing/zh/Event",
+    "imageUrl": null,
+    "fetchedAt": "2026-02-04T07:14:18.935Z"
+  },
+  {
+    "id": "carrefour_year_dish_coupon",
+    "title": "年菜預購滿900送50券",
+    "description": "12月10日至2月8日單筆購買指定年菜滿900元送50生鮮折價券。",
+    "merchantName": "家樂福",
+    "merchantType": "超市",
+    "startDate": "2026-02-01T00:00:00+08:00",
+    "endDate": "2026-02-08T23:59:59+08:00",
+    "tags": [
+      "滿額贈",
+      "春節優惠",
+      "餐廳"
+    ],
+    "sourceUrl": "https://money.udn.com/money/story/124512/9297898",
+    "imageUrl": null,
+    "fetchedAt": "2026-02-04T07:14:18.935Z"
+  },
+  {
+    "id": "family_mart_dessert_2for99",
+    "title": "指定甜點2杯99元",
+    "description": "7-11黑金燒仙草等指定有料系列2杯99元，OPEN錢包支付2杯85元，每會員限購2組。",
+    "merchantName": "7-ELEVEN",
+    "merchantType": "便利商店",
+    "startDate": "2026-02-01T00:00:00+08:00",
+    "endDate": "2026-02-28T23:59:59+08:00",
+    "tags": [
+      "加價購",
+      "行動支付優惠",
+      "限時特價"
+    ],
+    "sourceUrl": "https://www.storm.mg/lifestyle/11099421",
+    "imageUrl": null,
+    "fetchedAt": "2026-02-04T07:14:18.935Z"
+  },
+  {
+    "id": "family_mart_strawberry_ice_cream",
+    "title": "草莓霜淇淋2支55元",
+    "description": "全家草莓霜淇淋2支55元，多款商品買1送1，至2月1日。",
+    "merchantName": "全家 FamilyMart",
+    "merchantType": "便利商店",
+    "startDate": "2026-02-01T00:00:00+08:00",
+    "endDate": "2026-02-01T23:59:59+08:00",
+    "tags": [
+      "買一送一",
+      "限時特價"
+    ],
+    "sourceUrl": "https://www.storm.mg/lifestyle/11099421",
+    "imageUrl": null,
+    "fetchedAt": "2026-02-04T07:14:18.935Z"
+  },
+  {
+    "id": "px_mart_welfare_points",
+    "title": "福利卡滿1000贈800點",
+    "description": "全聯福利卡友單筆滿1000元贈800限時福利點，持續至2月8日。",
+    "merchantName": "全聯",
+    "merchantType": "超市",
+    "startDate": "2026-02-01T00:00:00+08:00",
+    "endDate": "2026-02-08T23:59:59+08:00",
+    "tags": [
+      "滿額贈",
+      "會員專屬",
+      "集點換購"
+    ],
+    "sourceUrl": "https://money.udn.com/money/story/124512/9297898",
+    "imageUrl": null,
+    "fetchedAt": "2026-02-04T07:14:18.935Z"
+  },
+  {
+    "id": "family_mart_breakfast_combo",
+    "title": "早餐鮮食+飲品39起",
+    "description": "指定鮮食+指定飲品享39/49/59/69元早餐優惠，長期活動。",
+    "merchantName": "全家 FamilyMart",
+    "merchantType": "便利商店",
+    "startDate": "2026-02-01T00:00:00+08:00",
+    "endDate": "2026-02-28T23:59:59+08:00",
+    "tags": [
+      "早餐優惠",
+      "加價購",
+      "長期活動"
+    ],
+    "sourceUrl": "https://www.family.com.tw/Marketing/zh/Event",
+    "imageUrl": null,
+    "fetchedAt": "2026-02-04T07:14:18.935Z"
+  },
+  {
+    "id": "carrefour_fortune_bag",
+    "title": "馬年福袋刮刮卡抽金條",
+    "description": "家樂福限量馬年福袋購買即獲刮刮卡，抽價值88萬馬年金條。",
+    "merchantName": "家樂福",
+    "merchantType": "超市",
+    "startDate": "2026-02-01T00:00:00+08:00",
+    "endDate": "2026-02-28T23:59:59+08:00",
+    "tags": [
+      "抽獎活動",
+      "春節優惠",
+      "限時特價"
+    ],
+    "sourceUrl": "https://money.udn.com/money/story/124512/9297898",
+    "imageUrl": null,
+    "fetchedAt": "2026-02-04T07:14:18.935Z"
+  },
+  {
+    "id": "seven_eleven_fukubukuro_lucky_draw",
+    "title": "開運福袋抽168購物金",
+    "description": "2月11日起開運福袋贈復古燈箱，抽最高168元購物金。",
+    "merchantName": "7-ELEVEN",
+    "merchantType": "便利商店",
+    "startDate": "2026-02-11T00:00:00+08:00",
+    "endDate": "2026-02-22T23:59:59+08:00",
+    "tags": [
+      "抽獎活動",
+      "春節優惠"
+    ],
+    "sourceUrl": "https://www.cosmopolitan.com/tw/lifestyle/hot-topics/g70181680/2026-7-eleven-0130/",
+    "imageUrl": null,
+    "fetchedAt": "2026-02-04T07:14:18.935Z"
+  },
+  {
+    "id": "hilife_20260203_coffee",
+    "title": "萊爾富 Hicafe重乳拿鐵新品上市",
+    "description": "Hicafe重乳拿鐵開賣，醇厚香甜美味增量。大杯特濃美式/特大杯美式同品項冰熱任選買一送一。",
+    "merchantName": "萊爾富 Hi-Life",
+    "merchantType": "便利商店",
+    "startDate": "2026-02-03T00:00:00+08:00",
+    "endDate": "2026-02-05T23:59:59+08:00",
+    "tags": [
+      "咖啡",
+      "飲品",
+      "買一送一",
+      "限時優惠"
+    ],
+    "sourceUrl": "https://www.hilife.com.tw/events_activity.aspx",
+    "imageUrl": null,
+    "fetchedAt": "2026-02-04T07:31:55.752Z"
+  },
+  {
+    "id": "hilife_20260203_tea",
+    "title": "萊爾富 珍珠奶茶與風味飲品特價",
+    "description": "鴛鴦/泰式珍珠奶茶、檸檬/鳳梨百香等風味飲品特價35元。",
+    "merchantName": "萊爾富 Hi-Life",
+    "merchantType": "便利商店",
+    "startDate": "2026-02-03T00:00:00+08:00",
+    "endDate": "2026-02-05T23:59:59+08:00",
+    "tags": [
+      "飲品",
+      "特價",
+      "限時優惠"
+    ],
+    "sourceUrl": "https://www.hilife.com.tw/events_activity.aspx",
+    "imageUrl": null,
+    "fetchedAt": "2026-02-04T07:31:55.752Z"
+  },
+  {
+    "id": "familymart_20260203_switch",
+    "title": "全家 SWITCH馬利歐賽車遊戲套組抽獎",
+    "description": "使用指定數位服務即可抽SWITCH馬利歐賽車遊戲套組。",
+    "merchantName": "全家 FamilyMart",
+    "merchantType": "便利商店",
+    "startDate": "2026-02-03T00:00:00+08:00",
+    "endDate": "2026-03-03T23:59:59+08:00",
+    "tags": [
+      "抽獎",
+      "遊戲機",
+      "數位服務"
+    ],
+    "sourceUrl": "https://www.family.com.tw/Marketing/zh/Event",
+    "imageUrl": null,
+    "fetchedAt": "2026-02-04T07:31:55.752Z"
+  },
+  {
+    "id": "7eleven_boutique_coffee_buy7_get7_feb1-5",
+    "title": "7-ELEVEN CITY PRIMA精品咖啡買7送7",
+    "description": "OPENPOINT行動隨時取，2月1日至2月5日，CITY PRIMA精品美式、拿鐵、馥芮白同品項買7送7。中杯精品冰燕麥拿鐵限量2萬組。",
+    "merchantName": "7-ELEVEN",
+    "merchantType": "超商",
+    "startDate": "2026-02-01T00:00:00+08:00",
+    "endDate": "2026-02-05T23:59:59+08:00",
+    "tags": [
+      "咖啡",
+      "買7送7"
+    ],
+    "sourceUrl": "https://www.ettoday.net/news/20260201/3110999.htm",
+    "imageUrl": null,
+    "fetchedAt": "2026-02-04T07:50:27.459Z"
+  },
+  {
+    "id": "family_lets_cafe_2cups_feb1-6",
+    "title": "全家 Let’s Café特濃美式/拿鐵2杯優惠",
+    "description": "APP隨買跨店取，2月1日至2月6日，大杯特濃美式2杯66元（6折）、特濃拿鐵2杯88元（68折）。每會員限購1組，數量有限。",
+    "merchantName": "全家 FamilyMart",
+    "merchantType": "超商",
+    "startDate": "2026-02-01T00:00:00+08:00",
+    "endDate": "2026-02-06T23:59:59+08:00",
+    "tags": [
+      "咖啡",
+      "2杯優惠"
+    ],
+    "sourceUrl": "https://www.ettoday.net/news/20260201/3110999.htm",
+    "imageUrl": null,
+    "fetchedAt": "2026-02-04T07:50:27.459Z"
+  },
+  {
+    "id": "napoli_buy_pizza_get_pizza_feb1-4",
+    "title": "拿坡里新品大披薩買一送好康4選1",
+    "description": "即日起至2月4日，內用/外帶點新品大披薩特價490元送好康4選1，外送及西湖店不適用。",
+    "merchantName": "拿坡里披薩",
+    "merchantType": "餐廳",
+    "startDate": "2026-02-01T00:00:00+08:00",
+    "endDate": "2026-02-04T23:59:59+08:00",
+    "tags": [
+      "披薩",
+      "買一送一"
+    ],
+    "sourceUrl": "https://info.talk.tw/2026buy-one-get-one/",
+    "imageUrl": null,
+    "fetchedAt": "2026-02-04T07:50:27.459Z"
+  },
+  {
+    "id": "treebuy_7eleven_ice_americano_feb",
+    "title": "treebuy 2026年2月7-ELEVEN取貨送中杯冰美式",
+    "description": "2月取貨7-ELEVEN訂單送中杯冰美式，限量3,000杯，先搶先贏。",
+    "merchantName": "7-ELEVEN",
+    "merchantType": "超商",
+    "startDate": "2026-02-01T00:00:00+08:00",
+    "endDate": "2026-02-28T23:59:59+08:00",
+    "tags": [
+      "飲料",
+      "贈品"
+    ],
+    "sourceUrl": "https://treebuy.zendesk.com/hc/zh-tw/articles/54409570628377--%E6%B4%BB%E5%8B%95%E5%85%AC%E5%91%8A-2026%E5%B9%B42%E6%9C%887-ELEVEN%E5%8F%96%E8%B2%A8%E9%80%81%E4%B8%AD%E6%9D%AF%E5%86%B0%E7%BE%8E%E5%BC%8F",
+    "imageUrl": null,
+    "fetchedAt": "2026-02-04T07:50:27.459Z"
+  }
+]

@@ -1,0 +1,65 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# ===== 安全性：敏感檔案 =====
+# 環境變數 (包含 API 金鑰)
+backend/.env
+.env
+.env.local
+.env.production
+
+# Firebase Admin SDK 私鑰 (非常重要！)
+calendar-*.json
+*-firebase-adminsdk-*.json
+*serviceAccountKey*.json
+
+# Node.js
+backend/node_modules/
+node_modules/
+
+# 其他密鑰
+*.pem
+*.key
