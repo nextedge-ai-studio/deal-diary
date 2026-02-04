@@ -20,7 +20,7 @@ jobs:
         uses: subosito/flutter-action@v2
         with:
           channel: 'stable'
-          flutter-version: '3.27.0' # 這裡建議填入你目前的版本或是 latest
+          flutter-version: '3.24.1'
 
       - name: Install dependencies
         run: flutter pub get
