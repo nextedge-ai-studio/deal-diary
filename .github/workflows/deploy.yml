@@ -28,7 +28,7 @@ jobs:
       - name: Build Web
         # 注意：如果你的 GitHub Pages 網址不是 root (例如 https://<user>.github.io/<repo-name>/)
         # 你需要將下列的 --base-href 修改為 "/<repo-name>/"
-        run: flutter build web --release --base-href "/"
+        run: flutter build web --release --base-href "/deal-diary/"
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
